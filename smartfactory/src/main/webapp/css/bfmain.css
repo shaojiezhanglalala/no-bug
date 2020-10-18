@@ -1,0 +1,96 @@
+#bftable,#addbftable{
+   
+   padding-left: 100px;
+    padding-right: 100px;
+    
+    
+}
+#webhead{
+    text-align: center;
+}
+#pagectrl{
+    text-align: center;
+    display: none;
+    font-size: large;
+}
+#searchbtn{
+    display: none;
+}
+
+/*
+#addbftable{
+    margin-top: 20px;
+    padding-left: 100px;
+    padding-right: 100px;
+    
+}
+*/
+#modfcon{
+    display: none;
+}
+.page-header{
+    margin-top: 10px;
+}
+/*
+.tablecontainer{
+    margin-top: 200px;
+    color: cadetblue;
+}
+*/
+/*
+#selfid{
+    
+    width: 360px;
+    margin-bottom: 10px;
+    font-size: 17px;
+    
+}
+*/
+#webhead{
+    
+    text-align: center;
+}
+/*
+#formselecthead{
+    font-size: 20px;
+}
+*/
+#searchbtnshow,#addbtn{
+    margin-left: 20px;
+    width: 100px;
+    font-size: 14px;
+   
+}
+
+.btn-group{
+    width: 400px;
+}
+#bformtable th,#addbformtable th{
+    font-size: large;
+    text-align: center;
+/*     border: 1px lightgray solid;*/
+}
+a{  
+    margin-right:  20px;
+    text-emphasis-color: black;
+}
+#bformtable,#addbformtable{
+    margin-top: 20px;
+    border-width: thick;
+    display: none;
+}
+#bformtable td,#addbformtable td{
+/*
+    border: 1px ;
+    border-color: lightgray;
+    border-style: solid;
+*/
+    font-size: 18px;
+}
+/*
+#condition{
+    text-align: left;
+}*/
+#etimeddd,#stimeddd{
+    display: none;
+}

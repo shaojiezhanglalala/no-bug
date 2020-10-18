@@ -1,0 +1,80 @@
+/*
+body{
+    text-align: center;
+}
+*/
+.container{
+    width: auto;
+    text-align: center;
+}
+
+#resulttable{
+    margin: auto;
+    width: auto;
+}
+
+
+
+#resultdiv {
+    text-align: center;
+    margin-top: 30px;
+    display: none;
+}
+
+#addtable{
+    margin: 0px auto
+    border: 1px black solid;
+    text-align: center;
+    border-collapse: :collapse;
+    
+}
+
+#addtable{
+    margin: auto;
+    width: auto;
+}
+#adddiv{
+    margin-top: 30px;
+    display: none;
+}
+
+#pagectrl{
+    text-align: center;
+    display: none;
+    font-size: large;
+}
+#gopage{
+    height: 30px;
+    width: 40px;
+}
+/*
+.container{
+    width: auto;
+}
+*/
+#resultdiv table th:not(#holder){
+    width: 150px;
+    height: 50px;
+    text-align: center;
+    font-size: large;
+}
+#holder{
+     width: 200px;
+    height: 50px;
+    text-align: center;
+    font-size: large;
+}
+
+#resultdiv table tr{
+    height: 70px;
+    font-size: 20px;
+}
+#adddiv table th{
+    width: 150px;
+    text-align: center;
+    font-size: large;
+}
+#searchBtn{
+    display: none;
+}
+

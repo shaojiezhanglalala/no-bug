@@ -1,0 +1,83 @@
+#resulttable{
+    margin: auto;
+    width:900px;
+}
+
+/*表格中单元格样式*/
+#resulttable th, #resulttable td{
+    border:1px solid grey;
+    padding: 10px;
+}
+
+
+
+/*
+#resulttable th{
+    background-color:lightgrey;
+    color:black;
+   
+}
+*/
+#resultdiv{
+     margin-top: 30px; 
+    display: none;
+}
+
+#pagectrl{
+     font-size: 20px;
+    text-align: center;
+    display: none;
+}
+
+#gopage{
+     height: 30px;
+    width: 40px;   
+}
+
+#prePageSpan, #nextPageSpan{
+   display:none;
+}
+
+#searchBtn{
+   display:none;
+}
+
+
+.container{
+    width: auto;
+}
+
+
+
+#searchdiv{
+    text-align: center;
+}
+
+
+
+
+#resultdiv table th{
+    width: 100px;
+    height: auto;
+    text-align: center;
+    font-size: large;
+}
+
+
+#resultdiv table tr{
+    height: 40px;
+}
+
+
+
+#opone{
+    text-align: center;
+    font-size: large;
+    width: 50px
+}
+#optwo{
+    text-align: center;
+    font-size: large;
+    width: 50px;
+}
+

@@ -1,0 +1,87 @@
+#eqpresultdiv{
+    margin-top: 30px; 
+    display: none;
+}
+#addeqpdiv{
+    margin-top: 30px; 
+    display: none;
+}
+#eqpresulttable{
+    margin: auto;
+    width: auto;
+}
+#addtable{
+    margin: auto;
+    width: auto;
+}
+#searchdiv{
+    text-align: center;
+}
+#eqppagectrl,#eqppagectrl1{
+    font-size: 20px;
+    text-align: center;
+    display: none;
+}
+#eqpgopage,#eqpgopage1{
+    height: 30px;
+    width: 40px;   
+}
+#eqpprePageSpan,#eqpnextPageSpan
+#eqpprePageSpan1,#eqpnextPageSpan1
+{
+      display: none;
+}
+
+#eqpsearchBth{
+      display: none;
+}
+#geqpsearchBth{
+      display: none;
+}
+.container{
+    width: auto;
+}
+#eqpresultdiv table th:not(#optwo){
+    width: 100px;
+    height: auto;
+    text-align: center;
+    font-size: large;
+}
+#eqpresultdiv table tr{
+    height: 40px;
+}
+#addeqpdiv table th:not(#opone){
+    width: 150px;
+    text-align: center;
+    font-size: large;
+}
+#opone{
+    text-align: center;
+    font-size: large;
+    width: 50px
+}
+#optwo{
+    text-align: center;
+    font-size: large;
+    width: 50px;
+}
+#aeqpid{
+    margin-top: 10px;
+    width: 400px;
+}
+#aeqpname{ 
+    margin-top: 10px;
+    width: 400px; 
+}
+#aeqppic{ 
+    margin-top: 10px;
+    width: 400px; 
+}
+#aeqpcond{ 
+    margin-top: 10px;
+    width: 400px; 
+}
+
+#in1,#in2,#in3{
+    width: 90px; 
+}
